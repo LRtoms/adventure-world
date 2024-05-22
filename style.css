@@ -1,0 +1,27 @@
+body{background-color:blue;} 
+
+h1{color: #F7A72C;
+font-family: Helvetica;
+font-size: 40px;}
+text-align: center;}
+
+p{color: #F7A72C;
+font-family: Helvetica;	
+font-size: 18px;}
+
+a{color:  white;
+font-family: Helvetica;
+font-size: 18px;
+text-decoration: none;}
+
+a:hover{color: #F7A72C;}
+
+li{background-color:  #F7A72C;border-color: blue
+	border-style double;
+	padding: 2px;
+	display: inline;}
+
+	ul{list-style-type: none; text-align: center;}
+	
+	img {margin: auto;
+		display: block;}
